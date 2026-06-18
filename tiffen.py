@@ -8,7 +8,7 @@ menu={
 }
 total=0
 while True:
-  #hello
+  #hello1
   order=input('enter the tiffens').lower()
    
   if order=='exit':
