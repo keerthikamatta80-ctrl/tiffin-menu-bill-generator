@@ -19,5 +19,5 @@ while True:
    print(b)
    total+=b
   else:
-    print('sorry, the item is not avaliable')
+    print('sorry, the item is not avaliables')
 print(total)
