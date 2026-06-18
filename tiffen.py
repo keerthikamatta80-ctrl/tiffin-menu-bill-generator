@@ -9,7 +9,7 @@ menu={
 total=0
 while True:
   
-  #jaswanth
+  #jaswanth there 
   order=input('enter the tiffen').lower()
    
   if order=='exit':
