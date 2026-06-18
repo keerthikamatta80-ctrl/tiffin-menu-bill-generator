@@ -8,8 +8,9 @@ menu={
 }
 total=0
 while True:
-  #hello1 there 
-  order=input('enter the tiffens').lower()
+  
+  #jaswanth there 
+  order=input('enter the tiffen').lower()
    
   if order=='exit':
      break
